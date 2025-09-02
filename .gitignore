@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+
+# Herramientas de desarrollo
+.qodo/
+
+# Python - archivos compilados
+__pycache__/
+*.pyc
+
+# Django - base de datos y logs
+db.sqlite3
+*.log
+
+# Variables de entorno
+.env
